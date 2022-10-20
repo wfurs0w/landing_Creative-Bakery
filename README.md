@@ -7,5 +7,5 @@ The following technologies were used in the project:
   HTML, CSS, BEM, SCSS, GRID, Javascript
 
 
-[DEMO LINK](https://<your_account>.github.io/layout_creativeBakery/).
+[DEMO LINK](https://wfurs0w.github.io/layout_creativeBakery/)
 
